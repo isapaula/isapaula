@@ -1,9 +1,8 @@
 ### Olá Eu sou IsaPaula 👋
  
-- 🔭 Estou trabalhando como freelancer em busca de uma oportunidade da qual eu possa fazer a diferença;
+- 🔭 Estou trabalhando como freelancer e sempre buscando oportunidades da qual eu possa fazer a diferença;
 - 🌱 Estou aprendendo  Python e com uma boa ideia de projeto de BI/ Estatística utilizando a mesma;
-- 😄 Acredito que a chave do sucesso é muito mais atitude do que aptidão e é o que eu busco aprimorar como Dev;
-- ⚡ Almejo a versatilidade e adaptabilidade em qualquer ambiente profissional que eu esteja inserida; 
+- ⚡ Almejo a versatilidade e adaptabilidade em qualquer ambiente profissional que eu esteja inserida e aprimorar cada vez mais minhas habilidades; 
 - 📫 Entre em contato comigo por meio do Email: is_paula@outlook.com;
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=isapaula&show_icons=true&theme=radical" alt=""> 
