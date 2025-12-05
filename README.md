@@ -1,7 +1,7 @@
 ### Olá Eu sou IsaPaula 👋
  
 - 🔭 Estou trabalhando como freelancer e sempre buscando oportunidades da qual eu possa fazer a diferença;
-- 🌱 Estou aprendendo  Python e com uma boa ideia de projeto de BI/ Estatística utilizando a mesma;
+- 🌱 Estou aprendendo  Python e com uma boa ideia de projeto de BI/ Estatística utilizando ela;
 - ⚡ Almejo a versatilidade e adaptabilidade em qualquer ambiente profissional que eu esteja inserida e aprimorar cada vez mais minhas habilidades; 
 - 📫 Entre em contato comigo por meio do Email: is_paula@outlook.com;
 <div>
