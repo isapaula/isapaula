@@ -17,3 +17,16 @@
   <img height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=139&color=currentColor" alt="">
   <img height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=139&color=currentColor" alt="">
 </div>
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="1000"
+      src="https://github-profile-trophy.vercel.app/?username=isapaula&column=7&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
