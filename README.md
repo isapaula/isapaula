@@ -12,11 +12,7 @@ Algumas linguagens de programação que fazem parte do meu dia a dia.
 <img src="https://github-readme-stats.vercel.app/api?username=isapaula&show_icons=true&theme=radical" alt=""> 
 </div>
 <br>
-<div>
-  <img height="40" width="50" src="https://icongr.am/devicon/php-original.svg?size=139&color=currentColor" alt="">
-  <img height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="">
-  <img height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=139&color=currentColor" alt="">
-</div>
+
 
 
 
